@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=NetC18_1 Pin=C18-1
+Removed Pin From Net: NetName=NetC18_1 Pin=IC5-1
+Change Component Footprint: Designator=J1 Old Footprint=FP-DF11-10DP-2DSA_24-MFG New Footprint=FP-DF11-10DP-2DSA_24-MFG
+Change Component Footprint: Designator=J9 Old Footprint=FP-DF11-10DP-2DSA_24-MFG New Footprint=FP-DF11-10DP-2DSA_24-MFG
+Added Component: Designator=F1(FUSC3216X60N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.littelfuse.com/~/media/electronics/datasheets/resettable_ptcs/littelfuse_ptc_1206l_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1206L110/12SLYESR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=F?(FUSC3216X60N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.littelfuse.com/~/media/electronics/datasheets/resettable_ptcs/littelfuse_ptc_1206l_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1206L110/12SLYESR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC18_1 Pin=F1-1
+Add Pin To Net: Unknown Pin: Pin L2-3
+Add Pin To Net: Unknown Pin: Pin L2-4
+Added Pin To Net: NetName=NetC18_1 Pin=RE1-4
+Added Pin To Net: NetName=NetCN7_1 Pin=RE1-5
+Added Pin To Net: NetName=NetCN7_2 Pin=RE1-8
+Add Pin To Net: Unknown Pin: Pin RE1-9
+Add Pin To Net: Unknown Pin: Pin RE1-A1
+Add Pin To Net: Unknown Pin: Pin RE1-A2
+Change Net Name : Old Net Name=NetC18_1 New Net Name=NetCN6_2
+Added Pin To Net: NetName=NetC18_1 Pin=C18-1
+Added Pin To Net: NetName=NetC18_1 Pin=F1-2
+Added Pin To Net: NetName=NetC18_1 Pin=IC5-1
+Added Net: Name=NetC18_1
