@@ -3,15 +3,15 @@
 Welcome to my SolderingStation Project, i made this for my Project Design course.
 
 ## Features:
-- **Precise Temperature Control:** 
+- **Precise Temperature Control** 
 
-- **Digital Display:** 
+- **Digital Display** 
 
-- **Safety Mechanisms:**
+- **Safety Mechanisms**
 
-- **Compatibility for a Variety of Soldering Tools:**
+- **Compatibility for a Variety of Soldering Tools**
 
-- **Lightweight Design:**
+- **Lightweight Design**
 
 ## Resources:
 - You can find the schematic, case, PCB, and library in their respective folders.
